@@ -7,4 +7,8 @@ nouns = nouns.concat([
     'TA',
     'truck',
     'flowers'
+    'Yale student',
+    'Kyle',
+    'Insane clown posse',
+    'Linus Torvalds'
 ]);
