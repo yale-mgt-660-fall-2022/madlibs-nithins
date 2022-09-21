@@ -1,5 +1,9 @@
 adjectives = adjectives.concat([
     'short',
     'crafty',
-    'wiley'
+    'wiley',
+    'professional',
+    'young',
+    'serious',
+    'exhausted'
 ]);
