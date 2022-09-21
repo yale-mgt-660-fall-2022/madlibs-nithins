@@ -1,6 +1,8 @@
 adjectives = adjectives.concat([
-    'cunning',
-    'silly',
-    'annoying',
-    'absurd',
+    'tall',
+    'crafty',
+    'wiley',
+    'green',
+    'blithesome',
+    'adamant'
 ]);
